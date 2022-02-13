@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/inicio">
+    <fragment
+        android:id="@+id/registro"
+        android:name="com.example.huertomatic.registro"
+        android:label="fragment_registro"
+        tools:layout="@layout/fragment_registro" />
+    <fragment
+        android:id="@+id/inicio"
+        android:name="com.example.huertomatic.inicio"
+        android:label="fragment_inicio"
+        tools:layout="@layout/fragment_inicio" >
+        <action
+            android:id="@+id/action_inicio_to_biblioteca"
+            app:destination="@id/biblioteca"
+            app:enterAnim="@anim/fadeout"
+            app:exitAnim="@anim/fadein" />
+    </fragment>
+    <fragment
+        android:id="@+id/biblioteca"
+        android:name="com.example.huertomatic.biblioteca"
+        android:label="fragment_biblioteca"
+        tools:layout="@layout/fragment_biblioteca" >
+        <action
+            android:id="@+id/action_biblioteca_to_vegetalIndividual"
+            app:destination="@id/vegetalIndividual"
+            app:enterAnim="@anim/fadeout"
+            app:exitAnim="@anim/fadein" />
+    </fragment>
+    <fragment
+        android:id="@+id/vegetalIndividual"
+        android:name="com.example.huertomatic.VegetalIndividual"
+        android:label="fragment_vegetal_individual"
+        tools:layout="@layout/fragment_vegetal_individual" >
+        <action
+            android:id="@+id/action_vegetalIndividual_self"
+            app:destination="@id/vegetalIndividual"
+            app:enterAnim="@anim/fadeout"
+            app:exitAnim="@anim/fadein" />
+    </fragment>
+</navigation>

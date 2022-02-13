@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HuertoMatic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- registro bbdd -->
+
+    <string name="titulo">Registro de Nuevas Plantas</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="defTax">Defi. Taxonómica</string>
+    <string name="siembra">Siembra</string>
+    <string name="recogida">Recogida</string>
+    <string name="inini">Inicio</string>
+    <string name="fin">Fin</string>
+    <string name="semillero">Semillero</string>
+    <string name="descripcion">Descripción</string>
+    <string name="clima">Clima</string>
+    <string name="benef">Beneficiosas</string>
+    <string name="perj">Perjudiciales</string>
+
+    <string name="hintCodigo">Introduce un código</string>
+    <string name="hintNombre">Introduce un nombre</string>
+    <string name="hintDefTax">Introduce el texto</string>
+    <string name="hintClima">Introduce el tipo de clima</string>
+    <string name="hintDescripcion">Introduce una descripcion de los cuidados</string>
+    <string name="hintBeneficiosas">Nombre de las plantas beneficiosas</string>
+    <string name="hintPerjudiciales">Nombre de las plantas perjudiciales</string>
+
+
+    <string name="de">de</string>
+    <string name="a">a</string>
+    <string name="rbInsert">Insertar</string>
+    <string name="rbModify">Modificar</string>
+    <string name="rbDelete">Borrar</string>
+    <string name="rbSearch">Buscar</string>
+
+    <string name="btnOk">Ok</string>
+    <string name="btnBack">Volver</string>
+    <string name="todo">TODO</string>
+
+    <string name="benef2">Asociaciones Beneficiosas</string>
+    <string name="perj2">Asociaciones Perjudiciales</string>
+    <string name="detalles">Caracteristicas</string>
+
+</resources>

@@ -1,0 +1,21 @@
+com/example/huertomatic/MainActivity.java
+ com.example.huertomatic.MainActivity
+com/example/huertomatic/biblioteca.java
+ com.example.huertomatic.biblioteca
+ com.example.huertomatic.biblioteca$1
+com/example/huertomatic/BuildConfig.java
+ com.example.huertomatic.BuildConfig
+com/example/huertomatic/AdminSQLiteOpenHelper.java
+ com.example.huertomatic.AdminSQLiteOpenHelper
+com/example/huertomatic/inicio.java
+ com.example.huertomatic.inicio
+ com.example.huertomatic.inicio$1
+com/example/huertomatic/registro.java
+ com.example.huertomatic.registro
+ com.example.huertomatic.registro$1
+ com.example.huertomatic.registro$2
+com/example/huertomatic/Vegetal.java
+ com.example.huertomatic.Vegetal
+com/example/huertomatic/VegetalIndividual.java
+ com.example.huertomatic.VegetalIndividual
+ com.example.huertomatic.VegetalIndividual$1

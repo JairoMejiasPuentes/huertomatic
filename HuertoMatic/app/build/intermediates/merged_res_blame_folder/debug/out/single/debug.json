@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zanahoria.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\zanahoria.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brocoli.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\brocoli.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_videos_apoyo.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\layout\\fragment_videos_apoyo.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arandano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\arandano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_brocoli.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\brocoli.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sandia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\sandia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cebolla.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\cebolla.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_melon.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\melon.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tomate.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\tomate.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cebolla.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\cebolla.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pepino.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\pepino.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rabano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\rabano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guisante.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\guisante.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pimiento.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\pimiento.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pimiento.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\pimiento.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_gen.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_gen.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fondobueno25.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\fondobueno25.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sandia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\sandia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sandia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\sandia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rabano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\rabano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_judia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\judia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_guisante.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\guisante.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ajo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\ajo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registro.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\layout\\fragment_registro.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ajo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\ajo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_judia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\judia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rabano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\rabano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_intro_app.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_intro_app.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_gen.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_gen.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fondobueno25.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\fondobueno25.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_patata.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\patata.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_melon.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\melon.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_guisante.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\guisante.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lechuga.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\lechuga.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_gen.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher_gen.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pimiento.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\pimiento.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_patata.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\patata.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sandia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\sandia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_espinaca.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\espinaca.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cebolla.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\cebolla.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_biblioteca.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\layout\\fragment_biblioteca.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_judia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\judia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_patata.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\patata.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pimiento.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\pimiento.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_gen.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_gen.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sandia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\sandia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ajo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\ajo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_brocoli.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\brocoli.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tomate.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\tomate.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_gen.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_gen.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_melon.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\melon.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cebolla.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\cebolla.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_zanahoria.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\zanahoria.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fondobueno25.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\fondobueno25.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_espinaca.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\espinaca.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_repollo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\repollo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arandano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\arandano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_guisante.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\guisante.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pepino.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\pepino.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rabano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\rabano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pepino.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\pepino.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_judia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\judia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fondobueno25.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\fondobueno25.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lechuga.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\lechuga.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zanahoria.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\zanahoria.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lechuga.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\lechuga.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ajo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\ajo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_intro_app.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\logo_intro_app.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_intro_app.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\logo_intro_app.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pepino.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\pepino.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tomate.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\tomate.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_repollo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\repollo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arandano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\arandano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_espinaca.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\espinaca.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_repollo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\repollo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zanahoria.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\zanahoria.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pepino.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\pepino.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_lechuga.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\lechuga.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_patata.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\patata.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arandano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\arandano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_espinaca.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\espinaca.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zanahoria.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\zanahoria.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rabano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\rabano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_melon.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\melon.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vegetal_individual.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\layout\\fragment_vegetal_individual.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_repollo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\repollo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cebolla.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\cebolla.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_guisante.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\guisante.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_brocoli.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\brocoli.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_intro_app.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\logo_intro_app.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pimiento.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\pimiento.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_patata.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\patata.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_judia.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxxhdpi\\judia.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_repollo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\repollo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tomate.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\tomate.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_melon.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\melon.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_espinaca.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\espinaca.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lechuga.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\lechuga.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ajo.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\ajo.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_intro_app.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-mdpi\\logo_intro_app.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tomate.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xxhdpi\\tomate.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arandano.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\arandano.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_brocoli.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-xhdpi\\brocoli.png"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inicio.xml.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\layout\\fragment_inicio.xml"
+    },
+    {
+        "merged": "C:\\2DAM\\TFG\\HuertoMatic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fondobueno25.png.flat",
+        "source": "C:\\2DAM\\TFG\\HuertoMatic\\app\\src\\main\\res\\drawable-hdpi\\fondobueno25.png"
+    }
+]
